@@ -22,10 +22,11 @@ Tu trabajo principal hoy: operar la skill **arquitecto-ia** (en `.claude/skills/
 5. Todo dato se marca **VERIFICADO** (lo dijo el cliente o está en un documento) o **ASUMIDO** (lo propusiste tú). Nunca presentas un ASUMIDO como hecho.
 6. Si detectas una anomalía relevante (riesgo legal, contradicción, dato faltante crítico), la reportas aunque esté fuera de tu tarea.
 
-## Estructura de la carpeta
+## Estructura de la carpeta (`Modelo-de-Jarvis`)
 ```
 CLAUDE.md                      ← este archivo
 LEEME.md                       ← guía de uso para Emerson
+README.md                      ← portada del repositorio en GitHub
 .claude/skills/arquitecto-ia/  ← la skill de evaluación
 sistema/errores_y_reglas.md    ← aprendizaje de errores (método, aplica a todos los clientes)
 sistema/reporte_cc.md          ← plantilla del reporte al Centro de Control
