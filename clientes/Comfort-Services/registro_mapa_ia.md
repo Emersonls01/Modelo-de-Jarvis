@@ -3,7 +3,7 @@
 Versión: v0 · 16-10-2026 · Fase actual: F0
 
 ## Empresa
-- Nombre:
+- Nombre: Comfort Services FL LLC — VERIFICADO (confirmado por Emerson, 16-10-2026)
 - Rubro:
 - Tamaño (personas):
 - Ubicación:
