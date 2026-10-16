@@ -1,6 +1,6 @@
 # Aprendizaje de errores y reglas — Jarvis Consultoría
 
-Versión: v1 · 15-10-2026
+Versión: v2 · 16-10-2026
 
 ## Principio
 Cada error termina en una de tres salidas: **regla**, **ajuste de la skill** o **descarte**. Nunca en una lista que solo crece.
@@ -38,7 +38,7 @@ Estado: abierto → en prueba → cerrado (usos correctos: 0/2)
 ## Reglas activas
 | ID | Regla | Origen | Fecha | Último uso |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| R-01 | Cada vez que pida aprobación a Emerson, incluir mi sugerencia o recomendación (qué haría yo y por qué), para que él solo confirme o cambie. | Instrucción directa de Emerson | 16-10-2026 | 16-10-2026 |
 
 ## Reglas retiradas
 (ninguna)
