@@ -1,12 +1,13 @@
 # Registro maestro — Comfort Services
 
-Versión: v0 · 16-10-2026 · Fase actual: F0
+Versión: v1 · 16-10-2026 · Fase actual: F0
 
 ## Empresa
-- Nombre: Comfort Services FL LLC — VERIFICADO (confirmado por Emerson, 16-10-2026)
-- Rubro:
+- Nombre: Comfort Services FL LLC — VERIFICADO (dicho por el cliente: Emerson, CEO, 16-10-2026)
+- CEO: Emerson (también es el consultor de este mapa; decide, acepta, verifica y ajusta todo lo de Comfort Services) — VERIFICADO (dicho por el cliente: Emerson, CEO, 16-10-2026)
+- Rubro: climatización comercial (aire acondicionado y calefacción); participa en licitaciones — VERIFICADO (dicho por el cliente: Emerson, CEO, 16-10-2026)
 - Tamaño (personas):
-- Ubicación:
+- Ubicación: Florida (ciudad pendiente) — VERIFICADO (dicho por el cliente: Emerson, CEO, 16-10-2026)
 - Objetivo de transformación con IA:
 - Restricciones (presupuesto, regulación, datos sensibles, plazos):
 - Software actual general:
@@ -47,3 +48,4 @@ Versión: v0 · 16-10-2026 · Fase actual: F0
 | Versión | Fecha | Cambio |
 |---|---|---|
 | v0 | 16-10-2026 | Creación desde plantilla |
+| v1 | 16-10-2026 | F0: nombre, CEO, rubro y ubicación (estado) confirmados por el CEO |
