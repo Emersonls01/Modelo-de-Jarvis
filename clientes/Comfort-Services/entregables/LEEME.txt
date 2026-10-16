@@ -1,0 +1,2 @@
+Aquí Jarvis guarda los entregables del cliente: mapa de agentes, modelo de referencia, matriz, hoja de ruta y fichas.
+Pon en la carpeta del cliente (un nivel arriba) los archivos que te entregue: organigrama, manuales, transcripciones de reuniones, encuestas.
