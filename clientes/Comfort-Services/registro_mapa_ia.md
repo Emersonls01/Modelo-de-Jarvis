@@ -1,6 +1,6 @@
 # Registro maestro — Comfort Services
 
-Versión: v5 · 18-10-2026 · Fase actual: F1
+Versión: v6 · 18-10-2026 · Fase actual: F1
 
 ## Empresa
 - Nombre: Comfort Services FL LLC — VERIFICADO (dicho por el cliente: Emerson, CEO, 16-10-2026)
@@ -21,7 +21,11 @@ Versión: v5 · 18-10-2026 · Fase actual: F1
 ## Áreas
 | ID | Área | Referente | Estado | Dato |
 |---|---|---|---|---|
-| A1 | | | pendiente | |
+| A1 | Dirección (decisiones, metas, contratación, licencias y permisos) | Emerson (CEO) | confirmada | VERIFICADO (aprobado por el CEO, 18-10-2026; propuesto por Jarvis) |
+| A2 | Ventas y licitaciones (oportunidades, visitas, cotizaciones, ofertas, seguimiento) | Emerson | confirmada | VERIFICADO (aprobado por el CEO, 18-10-2026; propuesto por Jarvis) |
+| A3 | Operaciones en obra (agenda de trabajos, instalación, mantenimiento, reportes) | Emerson (gerente de operaciones) + 2 técnicos | confirmada | VERIFICADO (aprobado por el CEO, 18-10-2026; propuesto por Jarvis) |
+| A4 | Administración y finanzas (facturación, cobranzas, pagos, QuickBooks) | Administrador(a) | confirmada | VERIFICADO (aprobado por el CEO, 18-10-2026; propuesto por Jarvis) |
+| A5 | Compras y clientes (equipos y repuestos, proveedores, atención y seguimiento a clientes) | Administrador(a) | confirmada | VERIFICADO (aprobado por el CEO, 18-10-2026; propuesto por Jarvis) |
 
 ## Intercambios entre áreas
 | De | A | Qué información |
@@ -44,7 +48,7 @@ Versión: v5 · 18-10-2026 · Fase actual: F1
 - Estado del dato: VERIFICADO / ASUMIDO · Fuente:
 
 ## Pendientes
-- Organigrama: no existe todavía. Crearlo más adelante (propuesta: armarlo en F1 con las áreas y referentes de las 4 personas). Pedido por el CEO, 16-10-2026. Roles base recibidos el 18-10-2026 (ver Composición).
+- Organigrama: primer borrador = tabla de Áreas (18-10-2026). Falta convertirlo en documento visual cuando el CEO lo pida. Pedido por el CEO, 16-10-2026.
 - Software: completar la lista ("entre otras"). Confirmar si usan Google Drive y BidCore — ASUMIDO por Jarvis, no confirmado.
 
 ## Anomalías
@@ -59,3 +63,4 @@ Versión: v5 · 18-10-2026 · Fase actual: F1
 | v3 | 18-10-2026 | F0: composición del equipo y objetivo de IA |
 | v4 | 18-10-2026 | F0: software actual (parcial) |
 | v5 | 18-10-2026 | F0 cerrada: restricciones como base inicial ajustable; pasa a F1 |
+| v6 | 18-10-2026 | F1: 5 áreas y responsables confirmados (borrador de organigrama) |
