@@ -1,6 +1,6 @@
 # Registro maestro — Comfort Services
 
-Versión: v4 · 18-10-2026 · Fase actual: F0
+Versión: v5 · 18-10-2026 · Fase actual: F1
 
 ## Empresa
 - Nombre: Comfort Services FL LLC — VERIFICADO (dicho por el cliente: Emerson, CEO, 16-10-2026)
@@ -10,7 +10,11 @@ Versión: v4 · 18-10-2026 · Fase actual: F0
 - Composición: 2 técnicos, 1 administrador(a) y el CEO (Emerson), que también trabaja como gerente de operaciones — VERIFICADO (dicho por el cliente: Emerson, CEO, 18-10-2026)
 - Ubicación: Florida (ciudad no indicada) — VERIFICADO (dicho por el cliente: Emerson, CEO, 16-10-2026)
 - Objetivo de transformación con IA: un agente que apoye al CEO en todo el proceso, en sus diferentes tareas — VERIFICADO (dicho por el cliente: Emerson, CEO, 18-10-2026)
-- Restricciones (presupuesto, regulación, datos sensibles, plazos):
+- Restricciones — VERIFICADO como base inicial ajustable (aprobado por el cliente: Emerson, CEO, 18-10-2026; propuesto por Jarvis):
+  - Presupuesto: bajo, menos de US$200 al mes en herramientas de IA para empezar.
+  - Datos delicados: finanzas (QuickBooks) y datos de clientes (Gmail). La IA consulta; no envía, paga ni borra nada sin aprobación del CEO.
+  - Normas: licencias y permisos de climatización en Florida, a respetar en cotizaciones y licitaciones.
+  - Plazo: primer resultado en 30 a 60 días.
 - Software actual general: Gmail, QuickBooks, WhatsApp y Excel, entre otros (lista incompleta) — VERIFICADO (dicho por el cliente: Emerson, CEO, 18-10-2026)
 - Consentimiento de grabación de reuniones: pendiente
 
@@ -54,3 +58,4 @@ Versión: v4 · 18-10-2026 · Fase actual: F0
 | v2 | 16-10-2026 | F0: tamaño (4 empleados); organigrama agregado a pendientes |
 | v3 | 18-10-2026 | F0: composición del equipo y objetivo de IA |
 | v4 | 18-10-2026 | F0: software actual (parcial) |
+| v5 | 18-10-2026 | F0 cerrada: restricciones como base inicial ajustable; pasa a F1 |
