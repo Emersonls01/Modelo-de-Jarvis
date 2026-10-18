@@ -1,6 +1,6 @@
 # Registro maestro — Comfort Services
 
-Versión: v3 · 18-10-2026 · Fase actual: F0
+Versión: v4 · 18-10-2026 · Fase actual: F0
 
 ## Empresa
 - Nombre: Comfort Services FL LLC — VERIFICADO (dicho por el cliente: Emerson, CEO, 16-10-2026)
@@ -11,7 +11,7 @@ Versión: v3 · 18-10-2026 · Fase actual: F0
 - Ubicación: Florida (ciudad no indicada) — VERIFICADO (dicho por el cliente: Emerson, CEO, 16-10-2026)
 - Objetivo de transformación con IA: un agente que apoye al CEO en todo el proceso, en sus diferentes tareas — VERIFICADO (dicho por el cliente: Emerson, CEO, 18-10-2026)
 - Restricciones (presupuesto, regulación, datos sensibles, plazos):
-- Software actual general:
+- Software actual general: Gmail, QuickBooks, WhatsApp y Excel, entre otros (lista incompleta) — VERIFICADO (dicho por el cliente: Emerson, CEO, 18-10-2026)
 - Consentimiento de grabación de reuniones: pendiente
 
 ## Áreas
@@ -41,6 +41,7 @@ Versión: v3 · 18-10-2026 · Fase actual: F0
 
 ## Pendientes
 - Organigrama: no existe todavía. Crearlo más adelante (propuesta: armarlo en F1 con las áreas y referentes de las 4 personas). Pedido por el CEO, 16-10-2026. Roles base recibidos el 18-10-2026 (ver Composición).
+- Software: completar la lista ("entre otras"). Confirmar si usan Google Drive y BidCore — ASUMIDO por Jarvis, no confirmado.
 
 ## Anomalías
 -
@@ -52,3 +53,4 @@ Versión: v3 · 18-10-2026 · Fase actual: F0
 | v1 | 16-10-2026 | F0: nombre, CEO, rubro y ubicación (estado) confirmados por el CEO |
 | v2 | 16-10-2026 | F0: tamaño (4 empleados); organigrama agregado a pendientes |
 | v3 | 18-10-2026 | F0: composición del equipo y objetivo de IA |
+| v4 | 18-10-2026 | F0: software actual (parcial) |
