@@ -1,6 +1,6 @@
 # Registro maestro — Comfort Services
 
-Versión: v12 · 20-10-2026 · Fase actual: F3
+Versión: v13 · 20-10-2026 · Fase actual: F3
 
 ## Empresa
 - Nombre: Comfort Services FL LLC — VERIFICADO (dicho por el cliente: Emerson, CEO, 16-10-2026)
@@ -9,7 +9,8 @@ Versión: v12 · 20-10-2026 · Fase actual: F3
 - Tamaño (personas): 4 empleados en Florida — VERIFICADO (dicho por el cliente: Emerson, CEO, 16-10-2026)
 - Composición: 2 técnicos, 1 administrador(a) y el CEO (Emerson), que también trabaja como gerente de operaciones — VERIFICADO (dicho por el cliente: Emerson, CEO, 18-10-2026)
 - Ubicación: Florida (ciudad no indicada) — VERIFICADO (dicho por el cliente: Emerson, CEO, 16-10-2026)
-- Objetivo de transformación con IA: un agente que apoye al CEO en todo el proceso, en sus diferentes tareas — VERIFICADO (dicho por el cliente: Emerson, CEO, 18-10-2026)
+- Objetivo de transformación con IA (actualizado 20-10-2026): delegar en un agente las operaciones de Comfort Services mientras el CEO se dedica a otro proyecto (una plataforma de soluciones para presentación de ofertas) — VERIFICADO (dicho por el cliente: Emerson, CEO, 20-10-2026). Versión anterior (18-10-2026): un agente que apoye al CEO en todo el proceso, en sus diferentes tareas.
+- Situación comercial actual: hoy no está cotizando servicios de ductos ni aire acondicionado a terceros; está intentando licitar y presentar ofertas al gobierno de EE. UU. — VERIFICADO (dicho por el cliente: Emerson, CEO, 20-10-2026)
 - Restricciones — VERIFICADO como base inicial ajustable (aprobado por el cliente: Emerson, CEO, 18-10-2026; propuesto por Jarvis):
   - Presupuesto: bajo, menos de US$200 al mes en herramientas de IA para empezar.
   - Datos delicados: finanzas (QuickBooks) y datos de clientes (Gmail). La IA consulta; no envía, paga ni borra nada sin aprobación del CEO.
@@ -92,7 +93,7 @@ Inventario F2 cerrado el 20-10-2026 (22 tareas) como base ajustable.
 ### Desglose F3
 
 #### A2-T2 — ⭐ Preparar cotizaciones y ofertas (código 2.2)
-- Frecuencia / volumen / tiempo por ciclo / quién la hace: Emerson; volumen y tiempo pendientes.
+- Frecuencia / volumen / tiempo por ciclo / quién la hace: Emerson. Hoy no cotiza servicios a terceros (volumen actual ≈ 0, VERIFICADO 20-10-2026); el esfuerzo comercial está en licitaciones con el gobierno de EE. UU. Desglose en pausa.
 - Pasos (aprobados por el CEO, 20-10-2026; propuestos por Jarvis):
   | # | Qué se hace | Por qué | Software | Entrada → salida |
   |---|---|---|---|---|
@@ -111,6 +112,8 @@ Inventario F2 cerrado el 20-10-2026 (22 tareas) como base ajustable.
 - Software: completar la lista ("entre otras"). Confirmar si usan Google Drive y BidCore — ASUMIDO por Jarvis, no confirmado.
 
 ## Anomalías
+- AN-02 (20-10-2026): tensión entre el nuevo objetivo (delegar las operaciones en un agente mientras el CEO está en otro proyecto) y la restricción de F0 (la IA no envía, paga ni borra nada sin aprobación del CEO). Hay que definir qué puede hacer el agente solo y qué sigue necesitando al CEO. Además, un agente no puede hacer el trabajo de campo: hace falta una persona responsable en Florida cuando el CEO no esté disponible.
+- AN-03 (20-10-2026), riesgo legal ASUMIDO: las ofertas al gobierno de EE. UU. tienen requisitos formales (registro del proveedor, certificaciones, veracidad de lo declarado). Lo que prepare una IA para una oferta federal debe revisarlo y firmarlo una persona.
 - AN-01 [RESUELTA] (20-10-2026): en F1 el responsable de A4 Administración y finanzas es el administrador(a), pero el CEO dice que él elabora facturas, hace seguimiento de pagos y el balance de caja. Falta aclarar quién hace qué en A4.
   - Avance 20-10-2026: el CEO aclara que el administrador(a) hace servicio de unidades, visitas a clientes, mantenimiento y servicio (VERIFICADO), es decir, trabajo de campo y no administrativo. Propuesta de Jarvis (ASUMIDO, pendiente de aprobación): A4 pasa a responsable Emerson; el administrador(a) se suma a A3 y A5. Pendiente: quién hace las compras.
   - Resuelta 20-10-2026: el CEO aprueba el ajuste. A4 = Emerson; A3 suma al administrador(a); A5 = Emerson (compras) + administrador(a) (visitas a clientes). VERIFICADO (aprobado por el CEO, 20-10-2026).
@@ -131,3 +134,4 @@ Inventario F2 cerrado el 20-10-2026 (22 tareas) como base ajustable.
 | v10 | 20-10-2026 | F1 ajustada (responsables A3, A4, A5); AN-01 resuelta; tareas de campo marcadas como críticas |
 | v11 | 20-10-2026 | F2 cerrada: tareas de técnicos y compras (22 tareas); candidatas a F3; pasa a F3 |
 | v12 | 20-10-2026 | F3: pasos de cotizaciones (2.2) aprobados |
+| v13 | 20-10-2026 | Objetivo actualizado (delegar operaciones); situación comercial; cotizaciones en pausa; anomalías AN-02 y AN-03 |
