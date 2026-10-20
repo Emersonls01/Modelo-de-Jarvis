@@ -1,6 +1,6 @@
 # Registro maestro — Comfort Services
 
-Versión: v11 · 20-10-2026 · Fase actual: F3
+Versión: v12 · 20-10-2026 · Fase actual: F3
 
 ## Empresa
 - Nombre: Comfort Services FL LLC — VERIFICADO (dicho por el cliente: Emerson, CEO, 16-10-2026)
@@ -89,6 +89,23 @@ Inventario F2 cerrado el 20-10-2026 (22 tareas) como base ajustable.
 ### Candidatas a desglose en F3
 2.2 ⭐ Cotizaciones · 3.1 ⭐ Agenda de técnicos · 3.2 ⭐ Coordinación por WhatsApp · 3.5 🔴 Servicio de unidades · 3.6 🔴 Mantenimiento y servicio · 5.1 🔴 Visitas a clientes. Propuestas por Jarvis por repetición (ASUMIDO): 4.1 Facturas · 4.2 Seguimiento de pagos.
 
+### Desglose F3
+
+#### A2-T2 — ⭐ Preparar cotizaciones y ofertas (código 2.2)
+- Frecuencia / volumen / tiempo por ciclo / quién la hace: Emerson; volumen y tiempo pendientes.
+- Pasos (aprobados por el CEO, 20-10-2026; propuestos por Jarvis):
+  | # | Qué se hace | Por qué | Software | Entrada → salida |
+  |---|---|---|---|---|
+  | 1 | Llega el pedido o la licitación | pendiente | Gmail / WhatsApp | pedido → solicitud registrada |
+  | 2 | Visita técnica para medir y ver el equipo | pendiente | en persona, fotos | solicitud → medidas y fotos |
+  | 3 | Calcular equipos, materiales y mano de obra | pendiente | Excel | medidas → lista de costos |
+  | 4 | Pedir precios a proveedores | pendiente | correo / teléfono | lista → precios de proveedores |
+  | 5 | Armar la cotización con formato | pendiente | Excel / Word | costos + precios → cotización |
+  | 6 | Revisar y enviar al cliente | pendiente | Gmail | cotización → enviada |
+- Dolor / errores / excepciones: pendiente
+- Clasificación: pendiente (F4)
+- Estado del dato: pasos VERIFICADO (aprobados por el CEO); "por qué", volumen y tiempo pendientes.
+
 ## Pendientes
 - Organigrama: primer borrador = tabla de Áreas (18-10-2026). Falta convertirlo en documento visual cuando el CEO lo pida. Pedido por el CEO, 16-10-2026.
 - Software: completar la lista ("entre otras"). Confirmar si usan Google Drive y BidCore — ASUMIDO por Jarvis, no confirmado.
@@ -113,3 +130,4 @@ Inventario F2 cerrado el 20-10-2026 (22 tareas) como base ajustable.
 | v9 | 20-10-2026 | F2: tareas del administrador(a) (trabajo de campo); avance en AN-01 |
 | v10 | 20-10-2026 | F1 ajustada (responsables A3, A4, A5); AN-01 resuelta; tareas de campo marcadas como críticas |
 | v11 | 20-10-2026 | F2 cerrada: tareas de técnicos y compras (22 tareas); candidatas a F3; pasa a F3 |
+| v12 | 20-10-2026 | F3: pasos de cotizaciones (2.2) aprobados |
