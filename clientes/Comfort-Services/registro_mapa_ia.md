@@ -1,6 +1,6 @@
 # Registro maestro — Comfort Services
 
-Versión: v6 · 18-10-2026 · Fase actual: F1
+Versión: v7 · 20-10-2026 · Fase actual: F2
 
 ## Empresa
 - Nombre: Comfort Services FL LLC — VERIFICADO (dicho por el cliente: Emerson, CEO, 16-10-2026)
@@ -28,8 +28,16 @@ Versión: v6 · 18-10-2026 · Fase actual: F1
 | A5 | Compras y clientes (equipos y repuestos, proveedores, atención y seguimiento a clientes) | Administrador(a) | confirmada | VERIFICADO (aprobado por el CEO, 18-10-2026; propuesto por Jarvis) |
 
 ## Intercambios entre áreas
-| De | A | Qué información |
-|---|---|---|
+Estado: VERIFICADO como base inicial ajustable (aprobado por el CEO, 20-10-2026; propuesto por Jarvis; el canal es ASUMIDO)
+
+| De | A | Qué información | Por dónde |
+|---|---|---|---|
+| A2 Ventas | A3 Operaciones | Trabajo ganado: alcance, dirección, fecha, equipos | WhatsApp / Excel |
+| A2 Ventas | A4 Administración | Cotización aprobada para facturar (anticipo o total) | Gmail / Excel |
+| A3 Operaciones | A5 Compras | Equipos y repuestos que hacen falta | WhatsApp |
+| A3 Operaciones | A4 Administración | Trabajo terminado: reporte, horas, materiales usados | WhatsApp / fotos |
+| A4 Administración | A1 Dirección | Cobranzas pendientes, pagos y caja | QuickBooks |
+| A5 Clientes | A2 Ventas | Pedidos nuevos y mantenimientos que vuelven a tocar | Gmail / teléfono |
 
 ## Tareas por área
 ### A1 — [área]
@@ -64,3 +72,4 @@ Versión: v6 · 18-10-2026 · Fase actual: F1
 | v4 | 18-10-2026 | F0: software actual (parcial) |
 | v5 | 18-10-2026 | F0 cerrada: restricciones como base inicial ajustable; pasa a F1 |
 | v6 | 18-10-2026 | F1: 5 áreas y responsables confirmados (borrador de organigrama) |
+| v7 | 20-10-2026 | F1 cerrada: 6 intercambios entre áreas como base ajustable; pasa a F2 |
