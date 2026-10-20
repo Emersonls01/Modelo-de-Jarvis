@@ -1,6 +1,6 @@
 # Registro maestro — Comfort Services
 
-Versión: v7 · 20-10-2026 · Fase actual: F2
+Versión: v8 · 20-10-2026 · Fase actual: F2
 
 ## Empresa
 - Nombre: Comfort Services FL LLC — VERIFICADO (dicho por el cliente: Emerson, CEO, 16-10-2026)
@@ -40,27 +40,47 @@ Estado: VERIFICADO como base inicial ajustable (aprobado por el CEO, 20-10-2026;
 | A5 Clientes | A2 Ventas | Pedidos nuevos y mantenimientos que vuelven a tocar | Gmail / teléfono |
 
 ## Tareas por área
-### A1 — [área]
-#### A1-T1 — [tarea] (código 1.1.1)
-- Frecuencia / volumen / tiempo por ciclo / quién la hace:
-- Pasos:
-  | # | Qué se hace | Por qué | Software | Entrada → salida |
-  |---|---|---|---|---|
-- Dolor / errores / excepciones:
-- Clasificación: AGENTE IA / ASISTIDO / MANUAL
-- Impacto (cliente | negocio | empleado):
-- Viabilidad (datos | herramientas | riesgo invertido):
-- Prioridad (1-25): · Fase:
-- Agente propuesto: nombre | hace | herramientas | humano responsable | nivel
-- ROI estimado:
-- Estado del dato: VERIFICADO / ASUMIDO · Fuente:
+Inventario inicial de tareas del CEO (entrevista, 20-10-2026). Que Emerson hace cada tarea: VERIFICADO (dicho por el cliente: Emerson, CEO). ⭐ = de las que más tiempo le quitan (VERIFICADO). El área asignada a las tareas nuevas es ASUMIDO. El desglose detallado (formato de `clientes/_plantilla/registro_mapa_ia.md`) se hace en F3 para las tareas candidatas.
+
+### A1 — Dirección
+| Código | Tarea | Quién | Origen |
+|---|---|---|---|
+| 1.1 | Revisar caja, cobranzas y pagos con el administrador(a) | Emerson | lista propuesta, confirmada |
+| 1.2 | Mantener licencias, seguros y permisos al día | Emerson | lista propuesta, confirmada |
+| 1.3 | Responder correos de clientes y proveedores (también A5) | Emerson | lista propuesta, confirmada |
+
+### A2 — Ventas y licitaciones
+| Código | Tarea | Quién | Origen |
+|---|---|---|---|
+| 2.1 | Buscar y revisar licitaciones u oportunidades nuevas | Emerson | lista propuesta, confirmada |
+| 2.2 | ⭐ Preparar cotizaciones y ofertas (cálculos en Excel) | Emerson | lista propuesta, confirmada |
+| 2.3 | Visitas técnicas para medir o evaluar antes de cotizar | Emerson | lista propuesta, confirmada |
+| 2.4 | Seguimiento a cotizaciones enviadas | Emerson | lista propuesta, confirmada |
+
+### A3 — Operaciones en obra
+| Código | Tarea | Quién | Origen |
+|---|---|---|---|
+| 3.1 | ⭐ Armar la agenda semanal de los técnicos | Emerson | lista propuesta, confirmada |
+| 3.2 | ⭐ Coordinar con los técnicos por WhatsApp durante el día | Emerson | lista propuesta, confirmada |
+| 3.3 | Revisar reportes y fotos de trabajos terminados | Emerson | lista propuesta, confirmada |
+| 3.4 | Valuaciones de trabajos (área ASUMIDA; enlaza con A4 para facturar) | Emerson | agregada por el CEO |
+
+### A4 — Administración y finanzas
+| Código | Tarea | Quién | Origen |
+|---|---|---|---|
+| 4.1 | Elaborar facturas | Emerson | agregada por el CEO |
+| 4.2 | Seguimiento de pagos (cobranzas) | Emerson | agregada por el CEO |
+| 4.3 | Balance de caja | Emerson | agregada por el CEO |
+
+### A5 — Compras y clientes
+Tareas del administrador(a): pendiente de levantar.
 
 ## Pendientes
 - Organigrama: primer borrador = tabla de Áreas (18-10-2026). Falta convertirlo en documento visual cuando el CEO lo pida. Pedido por el CEO, 16-10-2026.
 - Software: completar la lista ("entre otras"). Confirmar si usan Google Drive y BidCore — ASUMIDO por Jarvis, no confirmado.
 
 ## Anomalías
--
+- AN-01 (20-10-2026): en F1 el responsable de A4 Administración y finanzas es el administrador(a), pero el CEO dice que él elabora facturas, hace seguimiento de pagos y el balance de caja. Falta aclarar quién hace qué en A4.
 
 ## Historial de versiones
 | Versión | Fecha | Cambio |
@@ -73,3 +93,4 @@ Estado: VERIFICADO como base inicial ajustable (aprobado por el CEO, 20-10-2026;
 | v5 | 18-10-2026 | F0 cerrada: restricciones como base inicial ajustable; pasa a F1 |
 | v6 | 18-10-2026 | F1: 5 áreas y responsables confirmados (borrador de organigrama) |
 | v7 | 20-10-2026 | F1 cerrada: 6 intercambios entre áreas como base ajustable; pasa a F2 |
+| v8 | 20-10-2026 | F2: inventario inicial de 14 tareas del CEO (3 ⭐); anomalía AN-01 |
