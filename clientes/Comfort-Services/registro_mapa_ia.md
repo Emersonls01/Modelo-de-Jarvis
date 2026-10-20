@@ -1,6 +1,6 @@
 # Registro maestro — Comfort Services
 
-Versión: v10 · 20-10-2026 · Fase actual: F2
+Versión: v11 · 20-10-2026 · Fase actual: F3
 
 ## Empresa
 - Nombre: Comfort Services FL LLC — VERIFICADO (dicho por el cliente: Emerson, CEO, 16-10-2026)
@@ -64,8 +64,12 @@ Inventario inicial de tareas del CEO (entrevista, 20-10-2026). Que Emerson hace 
 | 3.2 | ⭐ Coordinar con los técnicos por WhatsApp durante el día | Emerson | lista propuesta, confirmada |
 | 3.3 | Revisar reportes y fotos de trabajos terminados | Emerson | lista propuesta, confirmada |
 | 3.4 | Valuaciones de trabajos (área ASUMIDA; enlaza con A4 para facturar) | Emerson | agregada por el CEO |
-| 3.5 | 🔴 CRÍTICA · Servicio de unidades (equipos de climatización) | Administrador(a) | dicho por el CEO, 20-10-2026 |
-| 3.6 | 🔴 CRÍTICA · Mantenimiento y servicio | Administrador(a) | dicho por el CEO, 20-10-2026 |
+| 3.5 | 🔴 CRÍTICA · Servicio de unidades (equipos de climatización) | Administrador(a) + 2 técnicos | dicho por el CEO, 20-10-2026 |
+| 3.6 | 🔴 CRÍTICA · Mantenimiento y servicio | Administrador(a) + 2 técnicos | dicho por el CEO, 20-10-2026 |
+| 3.7 | Instalación de equipos nuevos | 2 técnicos | propuesta de Jarvis, aprobada por el CEO, 20-10-2026 |
+| 3.8 | Diagnóstico de fallas | 2 técnicos | propuesta de Jarvis, aprobada por el CEO, 20-10-2026 |
+| 3.9 | Enviar fotos y reportes por WhatsApp al terminar cada trabajo | 2 técnicos | propuesta de Jarvis, aprobada por el CEO, 20-10-2026 |
+| 3.10 | Pedir repuestos cuando faltan | 2 técnicos | propuesta de Jarvis, aprobada por el CEO, 20-10-2026 |
 
 ### A4 — Administración y finanzas
 | Código | Tarea | Quién | Origen |
@@ -78,8 +82,12 @@ Inventario inicial de tareas del CEO (entrevista, 20-10-2026). Que Emerson hace 
 | Código | Tarea | Quién | Origen |
 |---|---|---|---|
 | 5.1 | 🔴 CRÍTICA · Visitas a clientes | Administrador(a) | dicho por el CEO, 20-10-2026 |
+| 5.2 | Compras de equipos y repuestos | Emerson | aprobado por el CEO, 20-10-2026 |
 
-Tareas de los 2 técnicos: pendiente de levantar.
+Inventario F2 cerrado el 20-10-2026 (22 tareas) como base ajustable.
+
+### Candidatas a desglose en F3
+2.2 ⭐ Cotizaciones · 3.1 ⭐ Agenda de técnicos · 3.2 ⭐ Coordinación por WhatsApp · 3.5 🔴 Servicio de unidades · 3.6 🔴 Mantenimiento y servicio · 5.1 🔴 Visitas a clientes. Propuestas por Jarvis por repetición (ASUMIDO): 4.1 Facturas · 4.2 Seguimiento de pagos.
 
 ## Pendientes
 - Organigrama: primer borrador = tabla de Áreas (18-10-2026). Falta convertirlo en documento visual cuando el CEO lo pida. Pedido por el CEO, 16-10-2026.
@@ -104,3 +112,4 @@ Tareas de los 2 técnicos: pendiente de levantar.
 | v8 | 20-10-2026 | F2: inventario inicial de 14 tareas del CEO (3 ⭐); anomalía AN-01 |
 | v9 | 20-10-2026 | F2: tareas del administrador(a) (trabajo de campo); avance en AN-01 |
 | v10 | 20-10-2026 | F1 ajustada (responsables A3, A4, A5); AN-01 resuelta; tareas de campo marcadas como críticas |
+| v11 | 20-10-2026 | F2 cerrada: tareas de técnicos y compras (22 tareas); candidatas a F3; pasa a F3 |
