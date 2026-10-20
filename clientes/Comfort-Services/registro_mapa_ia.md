@@ -1,6 +1,6 @@
 # Registro maestro — Comfort Services
 
-Versión: v8 · 20-10-2026 · Fase actual: F2
+Versión: v9 · 20-10-2026 · Fase actual: F2
 
 ## Empresa
 - Nombre: Comfort Services FL LLC — VERIFICADO (dicho por el cliente: Emerson, CEO, 16-10-2026)
@@ -64,6 +64,8 @@ Inventario inicial de tareas del CEO (entrevista, 20-10-2026). Que Emerson hace 
 | 3.2 | ⭐ Coordinar con los técnicos por WhatsApp durante el día | Emerson | lista propuesta, confirmada |
 | 3.3 | Revisar reportes y fotos de trabajos terminados | Emerson | lista propuesta, confirmada |
 | 3.4 | Valuaciones de trabajos (área ASUMIDA; enlaza con A4 para facturar) | Emerson | agregada por el CEO |
+| 3.5 | Servicio de unidades (equipos de climatización) | Administrador(a) | dicho por el CEO, 20-10-2026 |
+| 3.6 | Mantenimiento y servicio | Administrador(a) | dicho por el CEO, 20-10-2026 |
 
 ### A4 — Administración y finanzas
 | Código | Tarea | Quién | Origen |
@@ -73,7 +75,11 @@ Inventario inicial de tareas del CEO (entrevista, 20-10-2026). Que Emerson hace 
 | 4.3 | Balance de caja | Emerson | agregada por el CEO |
 
 ### A5 — Compras y clientes
-Tareas del administrador(a): pendiente de levantar.
+| Código | Tarea | Quién | Origen |
+|---|---|---|---|
+| 5.1 | Visitas a clientes | Administrador(a) | dicho por el CEO, 20-10-2026 |
+
+Tareas de los 2 técnicos: pendiente de levantar.
 
 ## Pendientes
 - Organigrama: primer borrador = tabla de Áreas (18-10-2026). Falta convertirlo en documento visual cuando el CEO lo pida. Pedido por el CEO, 16-10-2026.
@@ -81,6 +87,7 @@ Tareas del administrador(a): pendiente de levantar.
 
 ## Anomalías
 - AN-01 (20-10-2026): en F1 el responsable de A4 Administración y finanzas es el administrador(a), pero el CEO dice que él elabora facturas, hace seguimiento de pagos y el balance de caja. Falta aclarar quién hace qué en A4.
+  - Avance 20-10-2026: el CEO aclara que el administrador(a) hace servicio de unidades, visitas a clientes, mantenimiento y servicio (VERIFICADO), es decir, trabajo de campo y no administrativo. Propuesta de Jarvis (ASUMIDO, pendiente de aprobación): A4 pasa a responsable Emerson; el administrador(a) se suma a A3 y A5. Pendiente: quién hace las compras.
 
 ## Historial de versiones
 | Versión | Fecha | Cambio |
@@ -94,3 +101,4 @@ Tareas del administrador(a): pendiente de levantar.
 | v6 | 18-10-2026 | F1: 5 áreas y responsables confirmados (borrador de organigrama) |
 | v7 | 20-10-2026 | F1 cerrada: 6 intercambios entre áreas como base ajustable; pasa a F2 |
 | v8 | 20-10-2026 | F2: inventario inicial de 14 tareas del CEO (3 ⭐); anomalía AN-01 |
+| v9 | 20-10-2026 | F2: tareas del administrador(a) (trabajo de campo); avance en AN-01 |
