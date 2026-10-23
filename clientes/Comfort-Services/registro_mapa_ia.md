@@ -1,6 +1,6 @@
 # Registro maestro — Comfort Services
 
-Versión: v13 · 20-10-2026 · Fase actual: F3
+Versión: v14 · 23-10-2026 · Fase actual: F3
 
 ## Empresa
 - Nombre: Comfort Services FL LLC — VERIFICADO (dicho por el cliente: Emerson, CEO, 16-10-2026)
@@ -13,9 +13,14 @@ Versión: v13 · 20-10-2026 · Fase actual: F3
 - Situación comercial actual: hoy no está cotizando servicios de ductos ni aire acondicionado a terceros; está intentando licitar y presentar ofertas al gobierno de EE. UU. — VERIFICADO (dicho por el cliente: Emerson, CEO, 20-10-2026)
 - Restricciones — VERIFICADO como base inicial ajustable (aprobado por el cliente: Emerson, CEO, 18-10-2026; propuesto por Jarvis):
   - Presupuesto: bajo, menos de US$200 al mes en herramientas de IA para empezar.
-  - Datos delicados: finanzas (QuickBooks) y datos de clientes (Gmail). La IA consulta; no envía, paga ni borra nada sin aprobación del CEO.
+  - Datos delicados: finanzas (QuickBooks) y datos de clientes (Gmail). La regla original ("la IA no envía, paga ni borra nada sin aprobación del CEO") queda reemplazada por los niveles de permiso del agente (23-10-2026).
   - Normas: licencias y permisos de climatización en Florida, a respetar en cotizaciones y licitaciones.
   - Plazo: primer resultado en 30 a 60 días.
+- Niveles de permiso del agente de operaciones — VERIFICADO (aprobado por el CEO, 23-10-2026; propuesto por Jarvis):
+  - 🟢 Solo, sin preguntar: organiza, recuerda y prepara (agenda de técnicos, recordatorios, ordenar reportes y fotos, borradores de facturas y correos).
+  - 🟡 Con un "si" rápido por WhatsApp del CEO o del administrador(a): envía o compra hasta un tope (enviar facturas, recordar cobros, comprar repuestos hasta US$500).
+  - 🔴 Siempre el CEO: pagos, precios, contratos, ofertas al gobierno, contratar personal.
+- Responsable en Florida cuando el CEO no esté disponible: administrador(a) — VERIFICADO (aprobado por el CEO, 23-10-2026; propuesto por Jarvis)
 - Software actual general: Gmail, QuickBooks, WhatsApp y Excel, entre otros (lista incompleta) — VERIFICADO (dicho por el cliente: Emerson, CEO, 18-10-2026)
 - Consentimiento de grabación de reuniones: pendiente
 
@@ -112,7 +117,7 @@ Inventario F2 cerrado el 20-10-2026 (22 tareas) como base ajustable.
 - Software: completar la lista ("entre otras"). Confirmar si usan Google Drive y BidCore — ASUMIDO por Jarvis, no confirmado.
 
 ## Anomalías
-- AN-02 (20-10-2026): tensión entre el nuevo objetivo (delegar las operaciones en un agente mientras el CEO está en otro proyecto) y la restricción de F0 (la IA no envía, paga ni borra nada sin aprobación del CEO). Hay que definir qué puede hacer el agente solo y qué sigue necesitando al CEO. Además, un agente no puede hacer el trabajo de campo: hace falta una persona responsable en Florida cuando el CEO no esté disponible.
+- AN-02 [RESUELTA 23-10-2026: niveles de permiso y responsable en Florida aprobados] (20-10-2026): tensión entre el nuevo objetivo (delegar las operaciones en un agente mientras el CEO está en otro proyecto) y la restricción de F0 (la IA no envía, paga ni borra nada sin aprobación del CEO). Hay que definir qué puede hacer el agente solo y qué sigue necesitando al CEO. Además, un agente no puede hacer el trabajo de campo: hace falta una persona responsable en Florida cuando el CEO no esté disponible.
 - AN-03 (20-10-2026), riesgo legal ASUMIDO: las ofertas al gobierno de EE. UU. tienen requisitos formales (registro del proveedor, certificaciones, veracidad de lo declarado). Lo que prepare una IA para una oferta federal debe revisarlo y firmarlo una persona.
 - AN-01 [RESUELTA] (20-10-2026): en F1 el responsable de A4 Administración y finanzas es el administrador(a), pero el CEO dice que él elabora facturas, hace seguimiento de pagos y el balance de caja. Falta aclarar quién hace qué en A4.
   - Avance 20-10-2026: el CEO aclara que el administrador(a) hace servicio de unidades, visitas a clientes, mantenimiento y servicio (VERIFICADO), es decir, trabajo de campo y no administrativo. Propuesta de Jarvis (ASUMIDO, pendiente de aprobación): A4 pasa a responsable Emerson; el administrador(a) se suma a A3 y A5. Pendiente: quién hace las compras.
@@ -135,3 +140,4 @@ Inventario F2 cerrado el 20-10-2026 (22 tareas) como base ajustable.
 | v11 | 20-10-2026 | F2 cerrada: tareas de técnicos y compras (22 tareas); candidatas a F3; pasa a F3 |
 | v12 | 20-10-2026 | F3: pasos de cotizaciones (2.2) aprobados |
 | v13 | 20-10-2026 | Objetivo actualizado (delegar operaciones); situación comercial; cotizaciones en pausa; anomalías AN-02 y AN-03 |
+| v14 | 23-10-2026 | Niveles de permiso del agente y responsable en Florida; AN-02 resuelta |
