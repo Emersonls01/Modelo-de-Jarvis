@@ -1,6 +1,6 @@
 # Registro maestro — Comfort Services
 
-Versión: v14 · 23-10-2026 · Fase actual: F3
+Versión: v15 · 29-10-2026 · Fase actual: F3
 
 ## Empresa
 - Nombre: Comfort Services FL LLC — VERIFICADO (dicho por el cliente: Emerson, CEO, 16-10-2026)
@@ -112,6 +112,20 @@ Inventario F2 cerrado el 20-10-2026 (22 tareas) como base ajustable.
 - Clasificación: pendiente (F4)
 - Estado del dato: pasos VERIFICADO (aprobados por el CEO); "por qué", volumen y tiempo pendientes.
 
+#### A3-T1 — ⭐ Armar la agenda semanal de los técnicos (código 3.1)
+- Frecuencia / volumen / tiempo por ciclo / quién la hace: Emerson; unos 15 trabajos por semana entre los 3 que salen a campo (2 técnicos + administrador(a)); 1 a 2 horas por semana armando y reajustando. Aprobado por el CEO como aproximación (29-10-2026; cifras propuestas por Jarvis).
+- Pasos (aprobados por el CEO, 29-10-2026; propuestos por Jarvis):
+  | # | Qué se hace | Por qué | Software | Entrada → salida |
+  |---|---|---|---|---|
+  | 1 | Juntar los trabajos pendientes (servicios, mantenimientos, instalaciones) | saber qué hay que atender | WhatsApp / Gmail / memoria | pedidos sueltos → lista de trabajos |
+  | 2 | Asignar cada trabajo a un técnico o al administrador(a) según zona y habilidad | aprovechar tiempo y traslados | en la cabeza o Excel | lista → asignaciones |
+  | 3 | Enviar a cada uno su agenda del día o de la semana | que cada uno sepa adónde ir | WhatsApp | asignaciones → agenda enviada |
+  | 4 | Reorganizar cuando surge una urgencia o un cambio | atender imprevistos | WhatsApp / llamadas | cambio → agenda ajustada |
+- Dolor / errores / excepciones: pendiente (supuesto: urgencias que obligan a reorganizar; datos dispersos entre WhatsApp, Gmail y memoria).
+- Nivel de permiso previsto: 🟢 (el agente arma y envía la agenda solo).
+- Clasificación: pendiente (F4)
+- Estado del dato: pasos y volumen VERIFICADO como aproximación (aprobados por el CEO); "por qué" ASUMIDO por Jarvis.
+
 ## Pendientes
 - Organigrama: primer borrador = tabla de Áreas (18-10-2026). Falta convertirlo en documento visual cuando el CEO lo pida. Pedido por el CEO, 16-10-2026.
 - Software: completar la lista ("entre otras"). Confirmar si usan Google Drive y BidCore — ASUMIDO por Jarvis, no confirmado.
@@ -141,3 +155,4 @@ Inventario F2 cerrado el 20-10-2026 (22 tareas) como base ajustable.
 | v12 | 20-10-2026 | F3: pasos de cotizaciones (2.2) aprobados |
 | v13 | 20-10-2026 | Objetivo actualizado (delegar operaciones); situación comercial; cotizaciones en pausa; anomalías AN-02 y AN-03 |
 | v14 | 23-10-2026 | Niveles de permiso del agente y responsable en Florida; AN-02 resuelta |
+| v15 | 29-10-2026 | F3: desglose de agenda de técnicos (3.1) |
