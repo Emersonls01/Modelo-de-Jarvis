@@ -1,6 +1,6 @@
 # Registro maestro — Comfort Services
 
-Versión: v15 · 29-10-2026 · Fase actual: F3
+Versión: v16 · 30-10-2026 · Fase actual: F3
 
 ## Empresa
 - Nombre: Comfort Services FL LLC — VERIFICADO (dicho por el cliente: Emerson, CEO, 16-10-2026)
@@ -126,6 +126,21 @@ Inventario F2 cerrado el 20-10-2026 (22 tareas) como base ajustable.
 - Clasificación: pendiente (F4)
 - Estado del dato: pasos y volumen VERIFICADO como aproximación (aprobados por el CEO); "por qué" ASUMIDO por Jarvis.
 
+#### A3-T2 — ⭐ Flujo de WhatsApp con el equipo de campo (códigos 3.2 + 3.3 + 3.9 + 3.10)
+- Agrupación: coordinación diaria (3.2), revisar reportes y fotos (3.3), envío de fotos y reportes de los técnicos (3.9) y pedido de repuestos (3.10) se desglosan juntas porque pasan por el mismo chat. Propuesta de Jarvis, aprobada por el CEO (30-10-2026).
+- Frecuencia / volumen / tiempo: unos 40 mensajes al día; alrededor de 1 hora diaria del CEO contestando. Aprobado por el CEO como aproximación (30-10-2026; cifras propuestas por Jarvis).
+- Pasos (aprobados por el CEO, 30-10-2026; propuestos por Jarvis):
+  | # | Qué se hace | Quién | Software | Permiso previsto |
+  |---|---|---|---|---|
+  | 1 | Al empezar el día, cada uno confirma que va a su primer trabajo | Técnicos / administrador(a) | WhatsApp | 🟢 el agente pregunta y registra |
+  | 2 | Durante el día preguntan dudas o avisan de problemas | Técnicos → CEO | WhatsApp | 🟢 el agente responde lo simple y pasa al CEO lo que no sabe |
+  | 3 | Si falta un repuesto, lo piden | Técnicos → CEO | WhatsApp | 🟡 el agente arma el pedido; el administrador(a) aprueba hasta US$500 |
+  | 4 | Al terminar, mandan fotos y una nota del trabajo | Técnicos → CEO | WhatsApp | 🟢 el agente ordena las fotos y arma el reporte |
+  | 5 | El reporte se revisa para poder facturar | CEO | WhatsApp → Excel/QuickBooks | 🟢 el agente prepara el borrador de factura (enlaza con 4.1) |
+- Dolor / errores / excepciones: pendiente.
+- Clasificación: pendiente (F4)
+- Estado del dato: pasos y volumen VERIFICADO como aproximación (aprobados por el CEO).
+
 ## Pendientes
 - Organigrama: primer borrador = tabla de Áreas (18-10-2026). Falta convertirlo en documento visual cuando el CEO lo pida. Pedido por el CEO, 16-10-2026.
 - Software: completar la lista ("entre otras"). Confirmar si usan Google Drive y BidCore — ASUMIDO por Jarvis, no confirmado.
@@ -156,3 +171,4 @@ Inventario F2 cerrado el 20-10-2026 (22 tareas) como base ajustable.
 | v13 | 20-10-2026 | Objetivo actualizado (delegar operaciones); situación comercial; cotizaciones en pausa; anomalías AN-02 y AN-03 |
 | v14 | 23-10-2026 | Niveles de permiso del agente y responsable en Florida; AN-02 resuelta |
 | v15 | 29-10-2026 | F3: desglose de agenda de técnicos (3.1) |
+| v16 | 30-10-2026 | F3: desglose del flujo de WhatsApp (3.2, 3.3, 3.9, 3.10) |
